@@ -1,9 +1,3 @@
 Start of file
-Thank you for all of your hard work! - Kevin
-Please remember to create a case and notate each account for the calls you receive.
-The experience you create for the customer can be special and not just another call! Take a moment to figure out how to provide that level of service and you will have a lot more fun!
-Here is a simple but powerful rule: always give people more than what they expect to get.
-"Your most unhappy customers are your greatest source of learning." -Bill Gates
-"Kind words can be short and easy to speak, but their echos are truly endless." -Mother Teresa
-"If you do build a great experience, customers tell each other about that. Word of mouth is very powerful." -Jeff Bezos
-Customer service is not a department, it’s everyone’s job.
+This is a simple text ticker that reads from a file and scrolls the text across the screen.
+Each line in the file is a seperate quote on the ticker.
